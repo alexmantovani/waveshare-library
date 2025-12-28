@@ -4,6 +4,8 @@ Libreria Python semplice e veloce per creare interfacce grafiche su display e-pa
 
 Trasforma poche righe di codice in interfacce complete per i tuoi progetti IoT, domotica, stazioni meteo e dashboard.
 
+![IMG_1569](https://github.com/user-attachments/assets/23bc4c6d-ad6c-420e-a03d-f7d7ab73d582)
+
 ## Caratteristiche
 
 - **Facile da usare**: Crea interfacce in poche righe di codice
